@@ -1,5 +1,6 @@
 import { ReactNode } from 'react'
 import type { Metadata } from 'next'
+import '../styles/index.scss'
 
 type RootLayoutProps = {
   children: ReactNode
